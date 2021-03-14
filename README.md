@@ -1,4 +1,4 @@
-# Hello World! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> I'm Ralph, an aspiring Software/A.I. Engineer and Tech Speaker
+# <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> Hello World!  I'm Ralph, an aspiring Software/A.I. Engineer and Tech Speaker
 
 
 ## :handshake: Let's connect! [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ralphcajipe)[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ralf_on_ai) 
