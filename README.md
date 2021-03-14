@@ -1,9 +1,5 @@
 # <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> Hello World!  I'm Ralph, an aspiring Software/A.I. Engineer
 
-<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width= 28px> Let's connect! 
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ralphcajipe)[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ralf_on_ai) 
-
 - ⏳ I’m currently working on my tech stack to be a Software or Artificial Intelligence Engineer
 
 - 🌱 I’m currently learning Data Structures and Algorithms, Machine Learning, Computer Vision, and Natural Language Processing 
@@ -31,6 +27,10 @@
 <img width ='30%' height = '30%'  src='https://cdn.pixabay.com/photo/2018/09/24/08/31/pixel-cells-3699334_1280.png'/>
 </div>
 
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width= 28px> Let's connect! 
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ralphcajipe)[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ralf_on_ai) 
+
 ---
 
- README made by **Ralph Cajipe**
+ <div align='center'> README made by **Ralph Cajipe** </div>
