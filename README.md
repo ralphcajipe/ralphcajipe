@@ -13,7 +13,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralphcajipe&layout=compact&theme=highcontrast)](https://github.com/ralphcajipe/github-readme-stats)
 
-[![Ralph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ralphcajipe&show_private=false&show_icons=true&theme=highcontrast)](https://github.com/ralphcajipe/github-readme-stats)
+[![Ralph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ralphcajipe&show_icons=true&theme=highcontrast)](https://github.com/ralphcajipe/github-readme-stats)
 
 
 ## :trophy: GitHub Awards
