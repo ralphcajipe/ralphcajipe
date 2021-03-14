@@ -1,4 +1,4 @@
-# <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> Hello World!  I'm Ralph, an aspiring Software/A.I. Engineer and Tech Speaker
+# <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> Hello World!  I'm Ralph, an aspiring Software/A.I. Engineer
 
 
 ## :handshake: Let's connect! [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ralphcajipe)[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ralf_on_ai) 
@@ -19,9 +19,9 @@
 ![Profile views](https://gpvc.arturio.dev/ralphcajipe)
 
 ## :zap: GitHub Stats
-[![Ralph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ralphcajipe&count_private=true&show_icons=true&theme=default)](https://github.com/ralphcajipe/github-readme-stats)
+[![Ralph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ralphcajipe&count_private=true&show_icons=true&theme=dracula)](https://github.com/ralphcajipe/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralphcajipe&layout=compact)](https://github.com/ralphcajipe/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralphcajipe&layout=compact&theme=dracula)](https://github.com/ralphcajipe/github-readme-stats)
 
 ## :trophy: GitHub Awards
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ralphcajipe)
