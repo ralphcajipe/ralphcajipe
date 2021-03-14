@@ -29,10 +29,9 @@
 
  <div align='center'>
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width= 28px> Let's connect! 
-</div>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ralphcajipe)[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ralf_on_ai) 
-
+</div>
 ---
 
  <div align='center'> README made by **Ralph Cajipe** </div>
