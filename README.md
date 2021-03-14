@@ -18,13 +18,13 @@
 ## :computer: GitHub Activities
 ![Profile views](https://gpvc.arturio.dev/ralphcajipe)
 
-## :zap: GitHub Stats
-[![Ralph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ralphcajipe&count_private=true&show_icons=true&theme=dracula)](https://github.com/ralphcajipe/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralphcajipe&layout=compact&theme=highcontrast)](https://github.com/ralphcajipe/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralphcajipe&layout=compact&theme=dracula)](https://github.com/ralphcajipe/github-readme-stats)
+## :zap: GitHub Stats
+[![Ralph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ralphcajipe&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/ralphcajipe/github-readme-stats)
 
 ## :trophy: GitHub Awards
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ralphcajipe)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ralphcajipe&theme=highcontrast)
 
 
 
