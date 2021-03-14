@@ -11,10 +11,9 @@
 
 ![Profile views](https://gpvc.arturio.dev/ralphcajipe)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralphcajipe&layout=compact&theme=highcontrast)](https://github.com/ralphcajipe/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralphcajipe&layout=compact&theme=highcontrast)
 
-[![Ralph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ralphcajipe&show_icons=true&theme=highcontrast)](https://github.com/ralphcajipe/github-readme-stats)
-
+[![Ralph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ralphcajipe&show_icons=true&theme=highcontrast)
 
 ## :trophy: GitHub Awards
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ralphcajipe&theme=highcontrast)
