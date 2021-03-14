@@ -35,4 +35,4 @@
 
 ---
 
- <div align='center'> README made by **Ralph Cajipe** </div>
+ <div align='center'> README made by Ralph Cajipe </div>
