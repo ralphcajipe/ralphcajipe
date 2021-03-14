@@ -24,7 +24,7 @@
 [![Ralph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ralphcajipe&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/ralphcajipe/github-readme-stats)
 
 ## :trophy: GitHub Awards
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ralphcajipe&theme=highcontrast)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ralphcajipe&theme=dark)
 
 
 
