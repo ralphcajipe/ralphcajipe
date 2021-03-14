@@ -24,10 +24,10 @@
 [![Ralph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ralphcajipe&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/ralphcajipe/github-readme-stats)
 
 ## :trophy: GitHub Awards
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ralphcajipe&theme=dark)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ralphcajipe&layout=compact&theme=highcontrast)
 
-
-
----
+<div align='center'>
+<img width ='30%' height = '30%'  src='https://cdn.pixabay.com/photo/2018/09/24/08/31/pixel-cells-3699334_1280.png'/>
+</div>
 
 
