@@ -9,8 +9,6 @@
 
 ![Java](https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png)![Python](https://img.icons8.com/color/48/000000/python.png)![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)![HTML5](https://img.icons8.com/color/48/000000/html-5.png)![CSS](https://img.icons8.com/color/48/000000/css3.png)![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)![VSCode](https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png)![Windows](https://img.icons8.com/color/48/000000/windows-10.png) 
 
-![Profile views](https://gpvc.arturio.dev/ralphcajipe)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralphcajipe&layout=compact&theme=highcontrast)
 
 ![Ralph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ralphcajipe&show_icons=true&theme=highcontrast)
