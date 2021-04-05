@@ -7,7 +7,7 @@
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px> Tech stack
 
-![Python](https://img.icons8.com/color/48/000000/python.png)![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)![Java](https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png)![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)![HTML5](https://img.icons8.com/color/48/000000/html-5.png)![CSS](https://img.icons8.com/color/48/000000/css3.png)![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)![VSCode](https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png)![Windows](https://img.icons8.com/color/48/000000/windows-10.png) 
+![Python](https://img.icons8.com/color/48/000000/python.png)![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)![Java](https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png)![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)![VSCode](https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png)![Windows](https://img.icons8.com/color/48/000000/windows-10.png) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralphcajipe&layout=compact&theme=highcontrast)
 
