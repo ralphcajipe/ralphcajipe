@@ -1,6 +1,6 @@
 # <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> Hi! I'm Ralph, an aspiring Software/A.I. Engineer
 
-- ⏳ I’m currently working on my tech stack to be a Software or Artificial Intelligence Engineer
+- ⏳ I’m working on my tech stack to be a Software or Artificial Intelligence Engineer
 - 🌱 I’m currently learning Machine Learning, Computer Vision, and Natural Language Processing 
 - 👥 I’m looking to collaborate on Machine Learning projects for social good 
 - 💬 Talk to me about Computer Science, Software, and A.I.
