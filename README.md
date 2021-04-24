@@ -1,4 +1,4 @@
-# <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> Hi! I'm Ralph, an aspiring Software/A.I. Engineer
+# <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> Hi! I'm Ralph, I do Software and A.I. Engineering
 
 - ⏳ I’m working on my tech stack to be a Software or Artificial Intelligence Engineer
 - 🌱 I’m currently learning Machine Learning, Computer Vision, and Natural Language Processing 
