@@ -1,11 +1,11 @@
-# <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> Hi! I'm Ralph, I do Software and A.I. Engineering
+### Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I am Ralph!
 
 - 🖥 My Computer Science background brought me to Software and Artificial Intelligence Engineering
 - 🌱 I’m currently learning Machine Learning, Computer Vision, and Natural Language Processing 
 - 👥 I’m looking to collaborate on Machine Learning projects for social good 
 - 💬 Talk to me about Computer Science, Software, and A.I.
 
-## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px> Toolbox
+## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px> 🧰 Toolbox
 
 ![Python](https://img.icons8.com/color/48/000000/python.png)![C](https://img.icons8.com/color/48/000000/c-programming.png)![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)![Java](https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png)![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)![HTML5](https://img.icons8.com/color/48/000000/html-5.png)![CSS](https://img.icons8.com/color/48/000000/css3.png)![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)![VSCode](https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png)
 
