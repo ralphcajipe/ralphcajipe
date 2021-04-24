@@ -1,5 +1,5 @@
 # <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> Hi! I'm Ralph, I do Software and A.I. Engineering
----
+
 - 🖥 My Computer Science background brought me to Software and Artificial Intelligence Engineering
 - 🌱 I’m currently learning Machine Learning, Computer Vision, and Natural Language Processing 
 - 👥 I’m looking to collaborate on Machine Learning projects for social good 
