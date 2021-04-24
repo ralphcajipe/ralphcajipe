@@ -3,8 +3,11 @@
 A Computer Scientist specializing in Software Engineering and Artificial Intelligence. My experience with technologies listed in the **toolbox** below
 
 🖥 My Computer Science background brought me to Software and Artificial Intelligence
+
 🌱 I’m currently learning Machine Learning, Computer Vision, and Natural Language Processing 
+
 👥 I’m looking to collaborate on projects for social good 
+
 💬 Talk to me about Computer Science, Software, and A.I.
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px> 🧰 Toolbox
