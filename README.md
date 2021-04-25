@@ -13,8 +13,7 @@ A Computer Scientist specializing in Software Engineering and Artificial Intelli
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralphcajipe&layout=compact&theme=highcontrast)
 
-## :trophy: GitHub Awards
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ralphcajipe&theme=highcontrast)
+![Ralph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ralphcajipe&show_icons=true&theme=highcontrast)
 
 <div align='center'>
 <img width ='30%' height = '30%'  src='https://cdn.pixabay.com/photo/2018/09/24/08/31/pixel-cells-3699334_1280.png'/>
