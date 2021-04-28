@@ -1,6 +1,6 @@
-### Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I am Ralph!
+### Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>!
 
-A Computer Scientist specializing in Software Engineering and Artificial Intelligence. My experience with technologies listed in the **toolbox** below
+My name is Ralph, and I'm a **Computer Scientist** specializing in **Software Engineering and Artificial Intelligence**. My experience with technologies listed in the **toolbox** below
 
 - 🖥 My Computer Science background brought me to Software and Artificial Intelligence
 - 🌱 I’m currently learning Machine Learning, Computer Vision, and Natural Language Processing 
