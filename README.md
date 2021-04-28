@@ -9,7 +9,6 @@ The bigger picture of my life is I've been active in tech organizations and comm
 ### LIFE UPDATE:
 - 🌱 I’m currently learning Machine Learning, Computer Vision, and Natural Language Processing 
 - 👥 I’m looking to collaborate on projects for social good 
-- 💬 Talk to me about Computer Science, Software, and A.I.
 
 ## 🧰 Toolbox
 
