@@ -12,7 +12,7 @@ The bigger picture of my life is I've been active in tech organizations and comm
 
 ## 🧰 Toolbox
 
-![Python](https://img.icons8.com/color/48/000000/python.png)![C](https://img.icons8.com/color/48/000000/c-programming.png)![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)![Java](https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png)![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)![HTML5](https://img.icons8.com/color/48/000000/html-5.png)![CSS](https://img.icons8.com/color/48/000000/css3.png)![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)![VSCode](https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png)
+![Python](https://img.icons8.com/color/48/000000/python.png)![C](https://img.icons8.com/color/48/000000/c-programming.png)![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)![Java](https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png)![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)![HTML5](https://img.icons8.com/color/48/000000/html-5.png)![CSS](https://img.icons8.com/color/48/000000/css3.png)![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralphcajipe&layout=compact&theme=highcontrast)
 
