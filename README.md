@@ -1,4 +1,4 @@
-### Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
+### Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px>
 
 My name is Ralph, and I'm a **Computer Scientist** specializing in **Software Engineering** and **Artificial Intelligence**. My experience with technologies listed in the **toolbox** below.
 
