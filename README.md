@@ -1,8 +1,12 @@
 ### Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
 
-My name is Ralph, and I'm a **Computer Scientist** specializing in **Software Engineering** and **Artificial Intelligence**. My experience with technologies listed in the **toolbox** below
+My name is Ralph, and I'm a **Computer Scientist** specializing in **Software Engineering** and **Artificial Intelligence**. I advocate for Tech startups, Health, and Environment.My experience with technologies listed in the **toolbox** below
 
-- 🖥 My Computer Science background brought me to Software and Artificial Intelligence
+I care deeply about writing codes for human-centered means, in the way humans can see computers help that look and feel magic — or previously unrealistic for them.
+
+The bigger picture of my life is I've been active in tech organizations and communities. With a passion for startups and technology, I'm on a mission to build a Silicon Valley for the Philippines.
+
+### LIFE UPDATE:
 - 🌱 I’m currently learning Machine Learning, Computer Vision, and Natural Language Processing 
 - 👥 I’m looking to collaborate on projects for social good 
 - 💬 Talk to me about Computer Science, Software, and A.I.
