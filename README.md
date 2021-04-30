@@ -6,7 +6,7 @@ I care deeply about writing codes for human-centered means, in the way humans ca
 
 The bigger picture of my life is I've been active in tech organizations and communities. With a passion for startups and technology, I'm on a mission to build a Silicon Valley for the Philippines.
 
-### LIFE UPDATE:
+### Life update:
 - 🌱 I’m currently learning Machine Learning, Computer Vision, and Natural Language Processing 
 - 👥 I’m looking to collaborate on projects for social good 
 
