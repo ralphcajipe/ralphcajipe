@@ -15,7 +15,7 @@ The bigger picture of my life is I've been active in tech organizations and comm
 ![Python](https://img.icons8.com/color/48/000000/python.png)![C](https://img.icons8.com/color/48/000000/c-programming.png)![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)![Java](https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png)![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)![HTML5](https://img.icons8.com/color/48/000000/html-5.png)![CSS](https://img.icons8.com/color/48/000000/css3.png)![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/caji" target="_blank"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="caji" /></a></p><br>
+<p><a href="https://www.buymeacoffee.com/caji" target="_blank" rel="noopener noreferrer"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="caji" /></a></p><br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralphcajipe&layout=compact&theme=highcontrast)
 
