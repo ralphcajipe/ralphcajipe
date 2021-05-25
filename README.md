@@ -1,6 +1,6 @@
 ### Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px>
 
-My name is Ralph, and I'm a **Computer Scientist** specializing in **Software Engineering** and **Artificial Intelligence**. My experience with technologies listed in the **toolbox** below.
+My name is Ralph, and I'm a **Computer Scientist** specializing in **Machine Learning/Artificial Intelligence**. My experience with technologies listed in the **toolbox** below.
 
 I care deeply about writing codes for human-centered means, in the way humans can see computers help that look and feel magic — or previously unrealistic for them. I advocate for Tech startups, Health, and Environment.
 
