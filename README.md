@@ -7,7 +7,7 @@ I care deeply about writing codes for human-centered means, in the way humans ca
 The bigger picture of my life is I've been active in tech organizations and communities. With a passion for startups and technology, I'm on a mission to build a Silicon Valley for the Philippines.
 
 ### Life update:
-- 🌱 I’m always studying some branches of Artificial Intelligence - Machine Learning, Computer Vision, and Natural Language Processing.
+- 🌱 I’m always studying some branches of Artificial Intelligence - Machine Learning, Computer Vision, and Natural Language Understanding.
 - 👥 I’m looking to collaborate on projects for social good.
 
 ## 🧰 Toolbox
