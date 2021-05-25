@@ -1,14 +1,14 @@
 ### Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px>
 
-My name is Ralph, and I'm a **Computer Scientist** specializing in **Machine Learning/Artificial Intelligence**. My experience with technologies listed in the **toolbox** below.
+My name is Ralph, and I'm a **Computer Scientist** focusing on applied **Machine Learning**. My experience with technologies listed in the **toolbox** below.
 
 I care deeply about writing codes for human-centered means, in the way humans can see computers help that look and feel magic — or previously unrealistic for them. I advocate for Tech startups, Health, and Environment.
 
 The bigger picture of my life is I've been active in tech organizations and communities. With a passion for startups and technology, I'm on a mission to build a Silicon Valley for the Philippines.
 
 ### Life update:
-- 🌱 I’m currently learning Machine Learning, Computer Vision, and Natural Language Processing 
-- 👥 I’m looking to collaborate on projects for social good 
+- 🌱 I’m always studying Machine Learning, Computer Vision, and Natural Language Processing.
+- 👥 I’m looking to collaborate on projects for social good.
 
 ## 🧰 Toolbox
 
