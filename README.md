@@ -8,7 +8,7 @@ The bigger picture of my life is I've been active in tech organizations and comm
 
 ### Life update:
 - 🌱 I’m always studying branches of Artificial Intelligence like Machine Learning, Computer Vision, and Natural Language Understanding etc.
-- 👥 I’m looking to collaborate on projects for social good.
+- 👥 I’m looking to collaborate on projects for social good to have a better world every day.
 
 ## 🧰 Toolbox
 
