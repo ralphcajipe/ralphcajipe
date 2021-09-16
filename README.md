@@ -17,7 +17,7 @@ I lead a team of operations for our Google Developer Student Clubs (GDSC) chapte
 
 **JUNIOR MACHINE LEARNING ENGINEER | COLLABORATOR | PH CHAPTER MEMBER**
 
-_[GDSC FEU TECH](https://gdsc.community.dev/feu-institute-of-technology). Jun 2021 - Present_
+_[Omdena](https://omdena.com). Jun 2021 - Present_
 
 I joined the global Omdena to learn how to build innovative, ethical, and efficient AI and Data Science solutions to real-world problems. I had the opportunity to collaborate with over 100 individuals in Omdena Philippines chapter's first project entitled, "Increasing Renewable Energy Access in Philippines through AI." The goal was to use Philippine satellite data in conjunction with other relevant dataset to identify sites that are most suitable for solar panel installation as a greener energy source through machine learning and coverage analysis.
 
@@ -36,7 +36,7 @@ I studied here for my freshman year and gained foundations in the intellectual f
 ### 🧬Life update
 - 🌱 I’m always studying branches of Artificial Intelligence which are Machine Learning, Computer Vision, and Natural Language Understanding etc.
 - 👥 I’m looking to collaborate on projects for social good to have a better world every day.
-- 📫  You can find me on [Twitter](https://twitter.com/cd_ralph/"target="_blank) or [LinkedIn](https://www.linkedin.com/in/ralphcajipe/).
+- 📫  You can find me on [Twitter](https://twitter.com/cd_ralph) or [LinkedIn](https://www.linkedin.com/in/ralphcajipe).
 
 ### 🧰 Toolbox
 <h4 align="left">Languages:</h3>
