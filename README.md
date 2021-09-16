@@ -6,8 +6,35 @@ I care deeply about writing codes for human-centered means, in the way humans ca
 
 The bigger picture of my life is I've been active in tech organizations and communities. With a passion for startups and technology, I'm on a mission to build a Silicon Valley for the Philippines.
 
-### Life update:
-- 🌱 I’m always studying branches of Artificial Intelligence like Machine Learning, Computer Vision, and Natural Language Understanding etc.
+### 👨‍💻This is my tech life at the moment
+
+***CHIEF OPERATIONS OFFICER***
+
+_[GDSC FEU TECH](https://gdsc.community.dev/feu-institute-of-technology). Aug 2021 - Present_
+
+I lead a team of operations for our Google Developer Student Clubs (GDSC) chapter at our university, where my department oversees all operations done by the organization and ensure that all are executed efficiently. We create both effective and efficient operations strategies, policies, and systems for our student developers to achieve good technological advancement.
+
+
+***JUNIOR MACHINE LEARNING ENGINEER | COLLABORATOR | PH CHAPTER MEMBER***
+
+_[GDSC FEU TECH](https://gdsc.community.dev/feu-institute-of-technology). Jun 2021 - Present_
+
+I joined the global Omdena to learn how to build innovative, ethical, and efficient AI and Data Science solutions to real-world problems. I had the opportunity to collaborate with over 100 individuals in Omdena Philippines chapter's first project entitled, "Increasing Renewable Energy Access in Philippines through AI." The goal was to use Philippine satellite data in conjunction with other relevant dataset to identify sites that are most suitable for solar panel installation as a greener energy source through machine learning and coverage analysis.
+
+### 📚My education
+
+**BACHELOR OF SCIENCE (B.S.), COMPUTER SCIENCE**
+
+_Software Engineering Specialization. FEU Institute of Technology, Philippines. 2019 - Present_
+
+**BACHELOR OF SCIENCE (B.S.), COMPUTER SCIENCE**
+
+_Wesleyan University-Philippines. 2018 - 2019_
+
+I studied here for my freshman year and gained foundations in the intellectual field of Computer Science and Information Technology and the art of computer programming on Java, Python, HTML, CSS, and JavaScript.
+
+## 🧬Life update:
+- 🌱 I’m always studying branches of Artificial Intelligence which are Machine Learning, Computer Vision, and Natural Language Understanding etc.
 - 👥 I’m looking to collaborate on projects for social good to have a better world every day.
 
 ## 🧰 Toolbox
