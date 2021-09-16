@@ -34,9 +34,9 @@ _Wesleyan University-Philippines. 2018 - 2019_
 I studied here for my freshman year and gained foundations in the intellectual field of Computer Science and Information Technology and the art of computer programming on Java, Python, HTML, CSS, and JavaScript.
 
 ### 🧬Life update
-🌱 I’m always studying branches of Artificial Intelligence which are Machine Learning, Computer Vision, and Natural Language Understanding etc.
-👥 I’m looking to collaborate on projects for social good to have a better world every day.
-📫  You can find me on [Twitter](https://twitter.com/cd_ralph) or [LinkedIn](https://www.linkedin.com/in/ralphcajipe).
+- 🌱 I’m always studying branches of Artificial Intelligence which are Machine Learning, Computer Vision, and Natural Language Understanding etc.
+- 👥 I’m looking to collaborate on projects for social good to have a better world every day.
+- 📫  You can find me on [Twitter](https://twitter.com/cd_ralph) or [LinkedIn](https://www.linkedin.com/in/ralphcajipe).
 
 ### 🧰 Toolbox
 <h4 align="left">Languages:</h3>
