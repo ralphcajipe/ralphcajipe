@@ -36,6 +36,7 @@ I studied here for my freshman year and gained foundations in the intellectual f
 ### 🧬Life update
 - 🌱 I’m always studying branches of Artificial Intelligence which are Machine Learning, Computer Vision, and Natural Language Understanding etc.
 - 👥 I’m looking to collaborate on projects for social good to have a better world every day.
+- 📫  You can find me on [Twitter](https://twitter.com/cd_ralph) or [LinkedIn](https://www.linkedin.com/in/ralphcajipe/).
 
 ### 🧰 Toolbox
 <h4 align="left">Languages:</h3>
@@ -59,10 +60,4 @@ I studied here for my freshman year and gained foundations in the intellectual f
 
 <div align='center'>
 <img width ='30%' height = '30%'  src='https://cdn.pixabay.com/photo/2018/09/24/08/31/pixel-cells-3699334_1280.png'/>
-</div>
-
- <div align='center'>
-<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width= 28px> Let's connect! 
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ralphcajipe)
 </div>
