@@ -10,7 +10,7 @@ The bigger picture of my life is I've been active in tech organizations and comm
 
 **CHIEF OPERATIONS OFFICER**
 
-_[GDSC FEU TECH](https://gdsc.community.dev/feu-institute-of-technology). Aug 2021 - Present_
+_[GDSC FEU Tech](https://gdsc.community.dev/feu-institute-of-technology). Aug 2021 - Present_
 
 I lead a team of students for our Google Developer Student Clubs (GDSC) chapter at our university, where my department oversees all operations done by the organization and ensure that all are executed efficiently. We create both effective and efficient operations strategies, policies, and systems for our student developers to achieve good technological advancement.
 
