@@ -6,21 +6,6 @@ I care deeply about writing codes for human-centered means, in the way humans ca
 
 The bigger picture of my life is I've been active in tech organizations and communities. With a passion for startups and technology, I'm on a mission to build a Silicon Valley for the Philippines.
 
-### 👨‍💻This is me at the moment
-
-**CHIEF OPERATIONS OFFICER**
-
-_[GDSC FEU Tech](https://gdsc.community.dev/feu-institute-of-technology). Aug 2021 - Present_
-
-I lead a team of students for our Google Developer Student Clubs (GDSC) chapter at our university, where my department oversees all operations done by the organization and ensure that all are executed efficiently. We create both effective and efficient operations strategies, policies, and systems for our student developers to achieve good technological advancement.
-
-
-**JUNIOR MACHINE LEARNING ENGINEER | COLLABORATOR | PH CHAPTER MEMBER**
-
-_[Omdena](https://omdena.com). Jun 2021 - Present_
-
-I joined the global Omdena to learn how to build innovative, ethical, and efficient AI and Data Science solutions to real-world problems. I had the opportunity to collaborate with over 100 individuals in Omdena Philippines chapter's first project entitled, "Increasing Renewable Energy Access in Philippines through AI." The goal was to use Philippine satellite data in conjunction with other relevant dataset to identify sites that are most suitable for solar panel installation as a greener energy source through machine learning and coverage analysis.
-
 ### 📚My education
 
 **BACHELOR OF SCIENCE (B.S.), COMPUTER SCIENCE**
