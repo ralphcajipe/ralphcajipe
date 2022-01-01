@@ -8,13 +8,13 @@ The bigger picture of my life is I've been active in tech organizations and comm
 
 ### 📚My education
 
-**My coding was raised by the majority of the Internet**
+**- My foundation of coding are from books and self-education most of the time.**
 
-**BACHELOR OF SCIENCE (B.S.), COMPUTER SCIENCE**
+**- BACHELOR OF SCIENCE (B.S.), COMPUTER SCIENCE**
 
 _Software Engineering Specialization. FEU Institute of Technology, Philippines. 2019 - Present_
 
-**BACHELOR OF SCIENCE (B.S.), COMPUTER SCIENCE**
+**- BACHELOR OF SCIENCE (B.S.), COMPUTER SCIENCE**
 
 _Wesleyan University-Philippines. 2018 - 2019_
 
