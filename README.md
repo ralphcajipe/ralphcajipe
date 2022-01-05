@@ -27,6 +27,14 @@ My good foundation for coding are from books and self-education most of the time
 * [The C Programming Language (Dennis Ritchie | Brian Kernighan)](https://www.pearson.com/us/higher-education/program/Kernighan-C-Programming-Language-2nd-Edition/PGM54487.html)
 * [Data Structures & Algorithms in Java (Michael T. Goodrich | Roberto Tamassia)](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/0470383267)
 
+**SOME CERTIFICATIONS**
+
+* [AI For Everyone (deeplearning.ai - Coursera)](https://www.coursera.org/account/accomplishments/certificate/KAVAW28N32DQ)
+* [Artificial Intelligence Foundations: Machine Learning (LinkedIn Learning)](https://drive.google.com/file/d/1zRBmMjQUZtSX5DwyFtoOdKy3jgO233nn/view)
+* [Become a Machine Learning Specialist (LinkedIn Learning)](https://drive.google.com/file/d/1O7Xs4v7fXaz0qpkW89MvNPJIcGSouB6o/view)
+
+I've also accumulated other course experiences with certifications from 2019 to Present covering IoT, Analytics, Python, and Java.
+
 ## 🧬Life update
 - 🌱 I’m always studying branches of Artificial Intelligence which are Machine Learning, Computer Vision, and Natural Language Understanding etc.
 - 👥 I’m looking to collaborate on projects for social good to have a better world every day.
