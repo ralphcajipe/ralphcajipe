@@ -1,4 +1,4 @@
-### Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px>
+## Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px>
 
 I'm Ralph, and I'm a **Computer Scientist** focusing on applied **Machine Learning/AI**. My experience with technologies is listed in the **toolbox** below.
 
@@ -6,7 +6,7 @@ I care deeply about writing codes for human-centered means, in the way humans ca
 
 The bigger picture of my life is I've been active in tech organizations and communities. With a passion for startups and technology, I'm on a mission to build a Silicon Valley for the Philippines. Consider my work at the intersection of Machine Learning Engineering & Software Engineering.
 
-### 📚My education
+## 📚My education
 
 **- BACHELOR OF SCIENCE (B.S.), COMPUTER SCIENCE**
 
@@ -19,25 +19,26 @@ _Wesleyan University-Philippines. 2018 - 2019_
 I studied here for my freshman year and gained foundations in the intellectual field of Computer Science and Information Technology and the art of computer programming on Java, Python, HTML, CSS, and JavaScript.
 
 **BOOK'S THAT I READ**
-My foundation of coding are from books and self-education most of the time.
+
+My good foundation for coding are from books and self-education most of the time.
 
 * [Python Crash Course (Eric Matthes)](https://nostarch.com/pythoncrashcourse2e)
 * [Software Engineering (Ian Sommerville)](https://iansommerville.com/software-engineering-book/)
 * [The C Programming Language (Dennis Ritchie | Brian Kernighan)](https://www.pearson.com/us/higher-education/program/Kernighan-C-Programming-Language-2nd-Edition/PGM54487.html)
 * [Data Structures & Algorithms in Java (Michael T. Goodrich | Roberto Tamassia)](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/0470383267)
 
-### 🧬Life update
+## 🧬Life update
 - 🌱 I’m always studying branches of Artificial Intelligence which are Machine Learning, Computer Vision, and Natural Language Understanding etc.
 - 👥 I’m looking to collaborate on projects for social good to have a better world every day.
 - 📫  You can find me on [Twitter](https://twitter.com/ralphcode) or [LinkedIn](https://www.linkedin.com/in/ralphcajipe).
 
-### 🧰 Toolbox
+## 🧰 Toolbox
 <h4 align="left">Languages:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/> </a> 
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/default.asp" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cpp" width="40" height="40"/> </a>
 <a href="https://www.oracle.com/java" target="_blank"> <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png" alt="java" width="40" height="40"/> </a>
-<a href="https://golang.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/golang.png" alt="golang" width="40" height="40"/> </a>
+
 <h4 align="left">Artificial Intelligence:</h3>
  <p align="left"> <a href="https://colab.research.google.com" target="_blank"> <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="colab" width="40" height="40"/> </a>
 <a href="https://scikit-learn.org/stable" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikitlearn" width="40" height="40"/> </a>
