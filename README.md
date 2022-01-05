@@ -8,8 +8,6 @@ The bigger picture of my life is I've been active in tech organizations and comm
 
 ### 📚My education
 
-**- My foundation of coding are from books and self-education most of the time.**
-
 **- BACHELOR OF SCIENCE (B.S.), COMPUTER SCIENCE**
 
 _Software Engineering Specialization. FEU Institute of Technology, Philippines. 2019 - Present_
@@ -19,6 +17,14 @@ _Software Engineering Specialization. FEU Institute of Technology, Philippines. 
 _Wesleyan University-Philippines. 2018 - 2019_
 
 I studied here for my freshman year and gained foundations in the intellectual field of Computer Science and Information Technology and the art of computer programming on Java, Python, HTML, CSS, and JavaScript.
+
+**BOOK'S THAT I READ**
+My foundation of coding are from books and self-education most of the time.
+
+* [Python Crash Course (Eric Matthes)](https://nostarch.com/pythoncrashcourse2e)
+* [Software Engineering (Ian Sommerville)](https://iansommerville.com/software-engineering-book/)
+* [The C Programming Language (Dennis Ritchie | Brian Kernighan)](https://www.pearson.com/us/higher-education/program/Kernighan-C-Programming-Language-2nd-Edition/PGM54487.html)
+* [Data Structures & Algorithms in Java (Michael T. Goodrich | Roberto Tamassia)](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/0470383267)
 
 ### 🧬Life update
 - 🌱 I’m always studying branches of Artificial Intelligence which are Machine Learning, Computer Vision, and Natural Language Understanding etc.
