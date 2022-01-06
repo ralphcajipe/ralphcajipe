@@ -18,9 +18,9 @@ _Wesleyan University-Philippines. 2018 - 2019_
 
 I studied here for my freshman year and gained foundations in the intellectual field of Computer Science and Information Technology and the art of computer programming on Java, Python, HTML, CSS, and JavaScript.
 
-**BOOK'S THAT I READ**
+**BOOKS THAT I READ**
 
-My good foundation for coding are from good books and self-education most of the time.
+My good foundation for writing clean software are from good books and self-education most of the time.
 
 * [Python Crash Course (Eric Matthes)](https://nostarch.com/pythoncrashcourse2e)
 * [Software Engineering (Ian Sommerville)](https://iansommerville.com/software-engineering-book/)
