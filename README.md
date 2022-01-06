@@ -4,7 +4,7 @@ I'm Ralph, and I'm a **Computer Scientist** focusing on applied **Machine Learni
 
 I care deeply about writing codes for human-centered means, in the way humans can see computers help that look and feel magic — or previously unrealistic for them. I advocate for Tech startups, Health, and Environment.
 
-The bigger picture of my life is I've been active in tech organizations and communities. With a passion for startups and technology, I'm on a mission to build a Silicon Valley for the Philippines. Consider my work at the intersection of Machine Learning Engineering & Software Engineering.
+The bigger picture of my life is I've been active in tech organizations and communities. With a passion for startups and technology, I'm on a mission to build a Silicon Valley for the Philippines. Consider my work as intersection of Machine Learning Engineering & Software Engineering.
 
 ## 📚My education
 
