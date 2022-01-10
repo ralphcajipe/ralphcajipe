@@ -13,9 +13,9 @@ The bigger picture of my life is I've been active in tech organizations and comm
 My good foundation for writing clean software came from good books and self-education most of the time.
 
 * [Python Crash Course (Eric Matthes)](https://nostarch.com/pythoncrashcourse2e)
+* [Practical Deep Learning (Ronald T. Kneusel)](https://nostarch.com/practical-deep-learning-python)
+* [Dive Into Algorithms (Bradford Tuckfield)](https://nostarch.com/Dive-Into-Algorithms)
 * [Software Engineering (Ian Sommerville)](https://iansommerville.com/software-engineering-book/)
-* [The C Programming Language (Dennis Ritchie | Brian Kernighan)](https://www.pearson.com/us/higher-education/program/Kernighan-C-Programming-Language-2nd-Edition/PGM54487.html)
-* [Data Structures & Algorithms in Java (Michael T. Goodrich | Roberto Tamassia)](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/0470383267)
 
 **- BACHELOR OF SCIENCE (B.S.), COMPUTER SCIENCE**
 
