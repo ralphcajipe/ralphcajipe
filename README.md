@@ -42,14 +42,9 @@ _Wesleyan University-Philippines, Philippines. 2018 - 2019_
 - 📫  You can find me on [Twitter](https://twitter.com/ralphcode) or [LinkedIn](https://www.linkedin.com/in/ralphcajipe).
 
 ## 🧰 Toolbox
-<h4 align="left">Languages:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/> </a> 
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/default.asp" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cpp" width="40" height="40"/> </a>
-<a href="https://www.oracle.com/java" target="_blank"> <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png" alt="java" width="40" height="40"/> </a>
-
 <h4 align="left">Artificial Intelligence:</h3>
- <p align="left"> <a href="https://colab.research.google.com" target="_blank"> <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="colab" width="40" height="40"/> </a>
+ <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/> </a>
+<a href="https://colab.research.google.com" target="_blank"> <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="colab" width="40" height="40"/> </a>
 <a href="https://scikit-learn.org/stable" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikitlearn" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="tensorflow" width="40" height="40"/> </a>
 <a href="https://keras.io" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> </a>
