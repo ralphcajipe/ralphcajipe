@@ -52,7 +52,5 @@ _Wesleyan University-Philippines, Philippines. 2018 - 2019_
 <a href="https://matplotlib.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib" width="40" height="40"/> </a>
 <a href="https://numpy.org" target="_blank"> <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" alt="numpy" width="40" height="40"/> </a>
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralphcajipe&layout=compact&theme=highcontrast)
-
-![Ralph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ralphcajipe&show_icons=true&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralphcajipe&layout=compact&theme=highcontrast)  ![Ralph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ralphcajipe&show_icons=true&theme=highcontrast)
 
