@@ -56,6 +56,3 @@ _Wesleyan University-Philippines, Philippines. 2018 - 2019_
 
 ![Ralph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ralphcajipe&show_icons=true&theme=highcontrast)
 
-<div align='center'>
-<img width ='30%' height = '30%'  src='https://cdn.pixabay.com/photo/2018/09/24/08/31/pixel-cells-3699334_1280.png'/>
-</div>
