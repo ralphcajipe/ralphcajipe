@@ -27,7 +27,7 @@ _Wesleyan University-Philippines, Philippines. 2018 - 2019_
 
 **Coursework:** Software Applications, Computer Programming, Web Development, Living in the IT Era.
 
-**RELEVANT CERTIFICATIONS**
+**RELEVANT A.I. CERTIFICATIONS**
 
 * [AI For Everyone (deeplearning.ai - Coursera)](https://www.coursera.org/account/accomplishments/certificate/KAVAW28N32DQ)
 * [Artificial Intelligence Foundations: Machine Learning (LinkedIn Learning)](https://drive.google.com/file/d/1zRBmMjQUZtSX5DwyFtoOdKy3jgO233nn/view)
