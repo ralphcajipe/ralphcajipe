@@ -39,7 +39,7 @@ _Wesleyan University-Philippines, Philippines. 2018 - 2019_
 ## 🧬Life update
 - 🌱 I’m always studying branches of Artificial Intelligence which are Machine Learning, Computer Vision, and Natural Language Understanding.
 - 👥 I’m looking to collaborate on projects for social good to have a better world every day.
-- 📫  You can find me on [Twitter](https://twitter.com/ralphcode) or [LinkedIn](https://www.linkedin.com/in/ralphcajipe).
+- 📫  You can find me on [Twitter](https://twitter.com/ralphcode) and [LinkedIn](https://www.linkedin.com/in/ralphcajipe).
 
 ## 🧰 Toolbox
 <h4 align="left">Artificial Intelligence:</h3>
