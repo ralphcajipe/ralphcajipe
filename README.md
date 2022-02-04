@@ -8,9 +8,9 @@ The bigger picture of my life is I've been active in tech organizations and comm
 
 ## 📚My education
 
-**BOOKS THAT I READ**
+My good foundation for writing clean software came from good books and self-education most of the time. Formal education, to me, is only secondary to my learning. School isn't enough for me to become the person I want to become, I use my time outside of school to put my abilities in practical things.
 
-My good foundation for writing clean software came from good books and self-education most of the time. Formal education, to me, is only secondary to my learning.
+**BOOKS THAT I READ**
 
 * [Python Crash Course (Eric Matthes)](https://nostarch.com/pythoncrashcourse2e)
 * [Practical Deep Learning (Ronald T. Kneusel)](https://nostarch.com/practical-deep-learning-python)
