@@ -10,7 +10,7 @@ The bigger picture of my life is I've been active in tech organizations and comm
 
 **BOOKS THAT I READ**
 
-My good foundation for writing clean software came from good books and self-education most of the time.
+My good foundation for writing clean software came from good books and self-education most of the time. Formal education, to me, is only secondary to my learning.
 
 * [Python Crash Course (Eric Matthes)](https://nostarch.com/pythoncrashcourse2e)
 * [Practical Deep Learning (Ronald T. Kneusel)](https://nostarch.com/practical-deep-learning-python)
