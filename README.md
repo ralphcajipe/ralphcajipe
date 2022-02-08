@@ -42,7 +42,7 @@ _Wesleyan University-Philippines, Philippines. 2018 - 2019_
 - 📫  You can find me on [Twitter](https://twitter.com/ralphcode) and [LinkedIn](https://www.linkedin.com/in/ralphcajipe).
 
 ## 🧰 Toolbox
-<h4 align="left">Artificial Intelligence:</h3>
+<h4 align="left">Python and Artificial Intelligence:</h3>
  <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/> </a>
 <a href="https://colab.research.google.com" target="_blank"> <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="colab" width="40" height="40"/> </a>
 <a href="https://scikit-learn.org/stable" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikitlearn" width="40" height="40"/> </a>
