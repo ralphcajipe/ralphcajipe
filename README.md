@@ -1,6 +1,6 @@
 ## Hi! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px>
 
-I'm Ralph, and I'm a **Computer Scientist** focusing on applied **Machine Learning/AI**. My experience with technologies is listed in the **toolbox** below.
+I'm Ralph, and I'm a **Computer Scientist** focusing on applied **Machine Learning/A.I.**. My experience with technologies is listed in the **toolbox** below.
 
 I care deeply about writing codes for human-centered means, in the way humans will appreciate that computers can help humanity that is magical — or previously unrealistic for them.
 
