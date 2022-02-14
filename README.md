@@ -13,9 +13,9 @@ My good foundation for writing clean software came from good books and self-educ
 **BOOKS THAT I READ**
 
 * [Python Crash Course, 2nd Edition, by Eric Matthes (No Starch Press, 2019)](https://nostarch.com/pythoncrashcourse2e)
-* [Practical Deep Learning (Ronald T. Kneusel)](https://nostarch.com/practical-deep-learning-python)
-* [Dive Into Algorithms (Bradford Tuckfield)](https://nostarch.com/Dive-Into-Algorithms)
-* [Software Engineering (Ian Sommerville)](https://iansommerville.com/software-engineering-book/)
+* [Practical Deep Learning by Ronald T. Kneusel (No Starch Press, 2021)](https://nostarch.com/practical-deep-learning-python)
+* [Dive Into Algorithms by Bradford Tuckfield (No Starch Press, 2021)](https://nostarch.com/Dive-Into-Algorithms)
+* [Software Engineering, 10th Edition, by Ian Sommerville (Pearson, 2016)](https://iansommerville.com/software-engineering-book/)
 
 **- BACHELOR OF SCIENCE (B.S.), COMPUTER SCIENCE**
 
