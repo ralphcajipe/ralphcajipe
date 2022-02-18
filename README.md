@@ -2,7 +2,7 @@
 
 I'm Ralph, and I'm a **Computer Scientist** focusing on applied **Machine Learning/AI**. My experience with technologies is listed in the **toolbox** below.
 
-I care deeply about writing codes for human-centered means, in the way humans will appreciate that computers can help humanity that feels magical — or previously unrealistic for them.
+I care deeply about writing codes for human-centered means, in the way humans will appreciate that intelligent computers can help humanity that feels magical — or previously unrealistic for them.
 
 With a passion for tech and startups, I'm on a mission to build useful computer technologies for humanity.
 
