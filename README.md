@@ -8,7 +8,7 @@ With a passion for tech and startups, I'm on a mission to build useful computer 
 
 ## 📚My education
 
-My good foundation for writing clean software came from good books and self-education most of the time. Formal education, to me, is only secondary to my learning. School isn't enough for me to become the person I want to become, I use my time outside of school to put my abilities in practical things.
+My good foundation for writing clean software came from good books and self-education most of the time. Formal education, to me, is only secondary to my learning. School isn't enough for me to become the person I want to become, I use my time outside of school to put my abilities in practical and useful things.
 
 **BOOKS THAT I READ**
 
