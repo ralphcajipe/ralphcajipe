@@ -27,9 +27,10 @@ _Wesleyan University-Philippines, Philippines. 2018 - 2019_
 
 **Coursework:** Software Applications, Computer Programming, Web Development, Living in the IT Era.
 
-**RELEVANT A.I. CERTIFICATIONS**
+**RELEVANT CERTIFICATIONS**
 
 * [AI For Everyone (deeplearning.ai - Coursera)](https://www.coursera.org/account/accomplishments/certificate/KAVAW28N32DQ)
+* [Certified IT Specialist - Python](https://www.credly.com/badges/3c723206-75b7-4689-80d0-454bc03ad6ab)
 * [Artificial Intelligence Foundations: Machine Learning (LinkedIn Learning)](https://drive.google.com/file/d/1zRBmMjQUZtSX5DwyFtoOdKy3jgO233nn/view)
 * [Become a Machine Learning Specialist (LinkedIn Learning)](https://drive.google.com/file/d/1O7Xs4v7fXaz0qpkW89MvNPJIcGSouB6o/view)
 * [Intro to Machine Learning (Google - Kaggle Learn)](https://www.kaggle.com/learn/certification/ralphcajipe/intro-to-machine-learning)
