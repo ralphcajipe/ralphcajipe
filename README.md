@@ -4,7 +4,7 @@ I'm a **Computer Scientist** focusing on applied **Machine Learning/AI and Pytho
 
 I care deeply about writing software for human-centered means, in the way humans will appreciate that intelligent computers can help humanity that feels magical — or previously unrealistic for them.
 
-With a passion for tech and startups, I'm on a mission to build useful computer technologies for humanity.
+I'm on a mission to build useful computer technologies for humanity.
 
 ## 📚My education
 
