@@ -1,4 +1,4 @@
-## Hi! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px>
+## Hi!
 
 I'm a **Computer Scientist** focusing on applied **Machine Learning/AI and Python**. My experience with technologies is listed in my **toolbox** below.
 
