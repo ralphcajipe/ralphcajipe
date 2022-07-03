@@ -1,4 +1,4 @@
-## Hi!
+### Hi!
 
 I'm a **Computer Scientist** focusing on **Machine Learning/AI and Python**. My experience with technologies is listed in my **toolbox** below.
 
@@ -6,7 +6,7 @@ I care deeply about writing software for human-centered means, in the way humans
 
 I'm on a mission to build useful computer technologies for humanity.
 
-## 🧰 Toolbox
+### 🧰 Toolbox
 <h4 align="left">Python and Artificial Intelligence:</h3>
  <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/> </a>
 <a href="https://colab.research.google.com" target="_blank"> <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="colab" width="40" height="40"/> </a>
@@ -19,7 +19,7 @@ I'm on a mission to build useful computer technologies for humanity.
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralphcajipe&layout=compact&theme=highcontrast)
  
-## 📚My education
+### 📚My education
 
 My good foundation for writing clean software came from good books and self-education most of the time. Formal education, to me, is only secondary to my learning. School isn't enough for me to become the person I want to become, I use my time outside of school to put my abilities in practical and useful things.
 
@@ -50,7 +50,7 @@ _Wesleyan University-Philippines, Philippines. 2018 - 2019_
 * [Intermediate Machine Learning (Google - Kaggle Learn)](https://www.kaggle.com/learn/certification/ralphcajipe/intermediate-machine-learning)
 * [Python (Google - Kaggle Learn)](https://www.kaggle.com/learn/certification/ralphcajipe/python)
 
-## 🧬Life update...
+### 🧬Life update...
 - 🌱 I’m always studying branches of Artificial Intelligence which are Machine Learning, Computer Vision, Natural Language Processing, Robotics and so on.
 - 👥 I can collaborate on projects that are useful for a better world every day.
 - 📫  Follow me on [Twitter](https://twitter.com/ralphcode) and [LinkedIn](https://www.linkedin.com/in/ralphcajipe).
