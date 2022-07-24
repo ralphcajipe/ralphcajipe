@@ -23,13 +23,6 @@ I'm on a mission to build useful computer technologies for humanity.
 
 My good foundation for writing clean software came from good books and self-education most of the time. Formal education, to me, is only secondary to my learning. School isn't enough for me to become the person I want to become, I use my time outside of school to put my abilities in practical and useful things.
 
-**BOOKS THAT I READ**
-
-* [Python Crash Course, 2nd Edition, by Eric Matthes (No Starch Press, 2019)](https://nostarch.com/pythoncrashcourse2e)
-* [Practical Deep Learning by Ronald T. Kneusel (No Starch Press, 2021)](https://nostarch.com/practical-deep-learning-python)
-* [Dive Into Algorithms by Bradford Tuckfield (No Starch Press, 2021)](https://nostarch.com/Dive-Into-Algorithms)
-* [Software Engineering, 10th Edition, by Ian Sommerville (Pearson, 2016)](https://iansommerville.com/software-engineering-book/)
-
 **- BACHELOR OF SCIENCE (B.S.), COMPUTER SCIENCE**
 
 _Software Engineering Specialization. FEU Institute of Technology, Philippines. 2019 - Present_
