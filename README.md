@@ -1,6 +1,6 @@
 ### Hi!
 
-I'm a **Computer Scientist** focusing on **Machine Learning/AI and Python**. My experience with technologies is listed in my **toolbox** below.
+I'm a **Computer Scientist** focusing on **Python and Machine Learning**. My experience with technologies is listed in my **toolbox** below.
 
 I care deeply about writing software for human-centered means, in the way humans will appreciate that intelligent computers can help humanity that feels magical — or previously unrealistic for them.
 
@@ -35,6 +35,7 @@ _Wesleyan University-Philippines, Philippines. 2018 - 2019_
 
 **RELEVANT CERTIFICATIONS**
 
+* [Machine Learning with Python] (freeCodeCamp)(https://www.freecodecamp.org/certification/ralphcajipe/machine-learning-with-python-v7)
 * [AI For Everyone (deeplearning.ai - Coursera)](https://www.coursera.org/account/accomplishments/certificate/KAVAW28N32DQ)
 * [Certified IT Specialist - Python](https://www.credly.com/badges/3c723206-75b7-4689-80d0-454bc03ad6ab)
 * [Artificial Intelligence Foundations: Machine Learning (LinkedIn Learning)](https://drive.google.com/file/d/1zRBmMjQUZtSX5DwyFtoOdKy3jgO233nn/view)
