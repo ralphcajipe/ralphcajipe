@@ -29,7 +29,7 @@ _Software Engineering Specialization. FEU Institute of Technology, Philippines. 
 
 _Wesleyan University-Philippines, Philippines. 2018 - 2019_
 
-**Coursework:** Software Applications, Computer Programming, Web Development, Living in the IT Era.
+**Coursework:** Software Applications, Computer Programming, Web Development, Living in the IT Era
 
 **RELEVANT CERTIFICATIONS**
 
