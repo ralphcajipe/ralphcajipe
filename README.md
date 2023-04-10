@@ -1,6 +1,6 @@
 ### Hi!
 
-I'm a **Computer Scientist** focusing on **Python and Machine Learning**. My experience with technologies is listed in my **toolbox** below.
+I'm a **Computer Scientist** focusing on **Python and Machine Learning**.
 
 I care deeply about developing software that is human-centered and feels magical — creating solutions that were previously unrealistic or unattainable.
 
