@@ -41,4 +41,4 @@ _Wesleyan University-Philippines, Philippines. 2018 - 2019_
 * [Artificial Intelligence Foundations: Machine Learning (LinkedIn Learning)](https://drive.google.com/file/d/1zRBmMjQUZtSX5DwyFtoOdKy3jgO233nn/view)
 * [Become a Machine Learning Specialist (LinkedIn Learning)](https://drive.google.com/file/d/1O7Xs4v7fXaz0qpkW89MvNPJIcGSouB6o/view)
 
- I have obtained other certifications from 2019 to the present, including those for Python, Data Analytics, Java, IoT, and DevNet.
+ I have obtained other certifications from 2018 to the present, including those for Python, Data Analytics, Java, IoT, DevNet, and PowerPoint.
