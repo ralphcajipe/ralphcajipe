@@ -42,8 +42,3 @@ _Wesleyan University-Philippines, Philippines. 2018 - 2019_
 * [Become a Machine Learning Specialist (LinkedIn Learning)](https://drive.google.com/file/d/1O7Xs4v7fXaz0qpkW89MvNPJIcGSouB6o/view)
 
  I have obtained other certifications from 2019 to the present, including those for Python, Data Analytics, Java, IoT, and DevNet.
- 
-### 🧬Life update...
-- 🌱 I’m always studying branches of Artificial Intelligence which are Machine Learning, Computer Vision, Natural Language Processing, Robotics and so on.
-- 👥 I can collaborate on projects that are useful for a better world every day.
-- 📫  Follow me on [Twitter](https://twitter.com/ralphcodes) and [LinkedIn](https://www.linkedin.com/in/ralphcajipe).
