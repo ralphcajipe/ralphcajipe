@@ -19,7 +19,7 @@ I'm on a mission to build useful computer technologies for humanity.
  
 ### 📚My education
 
-My good foundation for writing clean software came from good books and self-education most of the time. Formal education, to me, is only secondary to my learning. School isn't enough for me to become the person I want to become, I use my time outside of school to put my abilities in practical and useful things.
+My foundation for writing clean software came from trusted books and leaders of specific topics most of the time. Formal education, to me, is only secondary to my learning. School isn't enough for me to become the person I want to become, I use my time outside of school to put my abilities in practical and useful things.
 
 **- BACHELOR OF SCIENCE (B.S.), COMPUTER SCIENCE**
 
