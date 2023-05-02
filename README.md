@@ -33,6 +33,7 @@ _Wesleyan University-Philippines, Philippines. 2018 - 2019_
 
 **RELEVANT CERTIFICATIONS**
 
+* [Supervised Machine Learning: Regression and Classification (DeepLearning.AI & Stanford University)](https://coursera.org/share/677b477121b4ba9bc248b08f295613e9)
 * [CS50's Introduction to Computer Science (Harvard University)](https://certificates.cs50.io/adc2f033-16f9-4d58-bd33-f48431c2a92e.pdf?size=letter)
 * [CS50 Python (Harvard University)](https://certificates.cs50.io/a2df9b8d-b01a-46f4-bca2-25d9082c8c33.pdf?size=letter)
 * [Machine Learning with Python (freeCodeCamp)](https://www.freecodecamp.org/certification/ralphcajipe/machine-learning-with-python-v7)
