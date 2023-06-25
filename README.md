@@ -12,13 +12,16 @@ I'm on a mission to build useful computer technologies for humanity.
  
 ### 🧰 Tools
 <a href="https://code.visualstudio.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
+<a href="https://www.vim.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/> </a>
+<a href="https://www.nano-editor.org" target="_blank"> <img src="https://github.com/ralphcajipe/ralphcajipe/blob/main/images/Nano.svg" alt="nano" width="40" height="40"/> </a>
 <a href="https://www.jetbrains.com/pycharm" target="_blank"> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg?_gl=1*1247uew*_ga*NTQ2NTE4ODk1LjE2ODc3MTgwOTI.*_ga_9J976DJZ68*MTY4NzcxODA5MS4xLjEuMTY4NzcxODExMy40NS4wLjA.&_ga=2.37694048.1980823379.1687718092-546518895.1687718092" alt="pycharm" width="40" height="40"/> </a>
 <a href="https://git-scm.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://github.com" target="_blank"> <img src="https://github.com/ralphcajipe/ralphcajipe/blob/main/images/github.png" alt="github" width="40" height="40"/> </a>
 <a href="https://www.linux.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.vim.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/> </a>
 <a href="https://www.docker.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/> </a>
+
+### 🧠 AI
 <a href="https://colab.research.google.com" target="_blank"> <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="colab" width="40" height="40"/> </a>
 <a href="https://scikit-learn.org/stable" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikitlearn" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
@@ -27,7 +30,7 @@ I'm on a mission to build useful computer technologies for humanity.
 <a href="https://matplotlib.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib" width="40" height="40"/> </a>
 <a href="https://numpy.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
 
-**RELEVANT CERTIFICATIONS**
+### ⭐RELEVANT CERTIFICATIONS
 
 * [Supervised Machine Learning: Regression and Classification (DeepLearning.AI & Stanford University)](https://www.coursera.org/account/accomplishments/certificate/4P5HTS445C9U)
 * [CS50's Introduction to Computer Science (Harvard University)](https://certificates.cs50.io/adc2f033-16f9-4d58-bd33-f48431c2a92e.pdf?size=letter)
