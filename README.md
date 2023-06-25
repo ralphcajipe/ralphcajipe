@@ -6,30 +6,25 @@ I care deeply about developing software that is human-centered and feels magical
 
 I'm on a mission to build useful computer technologies for humanity.
 
-### 🧰 Toolbox
-<h4 align="left">Python and Artificial Intelligence:</h3>
- <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/> </a>
+### ✍ Languages
+<a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://cs50.harvard.edu/x/2023/weeks/1/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="clang" width="40" height="40"/> </a>
+ 
+### 🧰 Tools
+<a href="https://code.visualstudio.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
+<a href="https://www.jetbrains.com/pycharm" target="_blank"> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg?_gl=1*1247uew*_ga*NTQ2NTE4ODk1LjE2ODc3MTgwOTI.*_ga_9J976DJZ68*MTY4NzcxODA5MS4xLjEuMTY4NzcxODExMy40NS4wLjA.&_ga=2.37694048.1980823379.1687718092-546518895.1687718092" alt="pycharm" width="40" height="40"/> </a>
+<a href="https://git-scm.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.linux.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.vim.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/> </a>
+<a href="https://www.docker.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://colab.research.google.com" target="_blank"> <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="colab" width="40" height="40"/> </a>
 <a href="https://scikit-learn.org/stable" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikitlearn" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
 <a href="https://keras.io" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org" target="_blank"> <img src="https://cdn.mos.cms.futurecdn.net/3n8tRry6fYg7sNyhFDPQwR-1024-80.jpg.webp" alt="pandas" width="40" height="40"/> </a>
+<a href="https://pandas.pydata.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://matplotlib.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib" width="40" height="40"/> </a>
-<a href="https://numpy.org" target="_blank"> <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" alt="numpy" width="40" height="40"/> </a>
- 
-### 📚My education
-
-My foundation for writing clean software roots in books and courses from leaders of specific topics. While formal education is important, I've found that it's often not enough to achieve my goals. That's why I spend a lot of time outside of school working on practical, real-world projects that help me put my abilities to use.
-
-**- BACHELOR OF SCIENCE (B.S.), COMPUTER SCIENCE**
-
-_Software Engineering Specialization. FEU Institute of Technology, Philippines. 2019 - Present_
-
-**- BACHELOR OF SCIENCE (B.S.), COMPUTER SCIENCE**
-
-_Wesleyan University-Philippines, Philippines. 2018 - 2019_
-
-**Coursework:** Software Applications, Computer Programming, Web Development, Living in the IT Era
+<a href="https://numpy.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
 
 **RELEVANT CERTIFICATIONS**
 
@@ -43,3 +38,17 @@ _Wesleyan University-Philippines, Philippines. 2018 - 2019_
 * [Become a Machine Learning Specialist (LinkedIn Learning)](https://drive.google.com/file/d/1O7Xs4v7fXaz0qpkW89MvNPJIcGSouB6o/view)
 
  I have obtained other certifications from 2018 to the present, including those for Python, Data Analytics, Java, IoT, DevNet, and PowerPoint.
+
+### 📚My education
+
+My foundation for writing clean software roots in books and courses from leaders of specific topics. While formal education is important, I've found that it's often not enough to achieve my goals. That's why I spend a lot of time outside of school working on practical, real-world projects that help me put my abilities to use.
+
+**- BACHELOR OF SCIENCE (B.S.), COMPUTER SCIENCE**
+
+_Software Engineering Specialization. FEU Institute of Technology, Philippines. 2019 - Present_
+
+**- BACHELOR OF SCIENCE (B.S.), COMPUTER SCIENCE**
+
+_Wesleyan University-Philippines, Philippines. 2018 - 2019_
+
+**Coursework:** Software Applications, Computer Programming, Web Development, Living in the IT Era
