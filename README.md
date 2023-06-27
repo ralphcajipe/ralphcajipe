@@ -6,7 +6,7 @@ I care deeply about developing software that is human-centered and feels magical
 
 I'm on a mission to build useful computer technologies for humanity.
 
-### ✍ Languages
+### ✍️ Languages
 <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://cs50.harvard.edu/x/2023/weeks/1/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="clang" width="40" height="40"/> </a>
  
@@ -30,7 +30,7 @@ I'm on a mission to build useful computer technologies for humanity.
 <a href="https://matplotlib.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib" width="40" height="40"/> </a>
 <a href="https://numpy.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
 
-### ⭐RELEVANT CERTIFICATIONS
+### ⭐ RELEVANT CERTIFICATIONS
 
 * [Supervised Machine Learning: Regression and Classification (DeepLearning.AI & Stanford University)](https://www.coursera.org/account/accomplishments/certificate/4P5HTS445C9U)
 * [CS50's Introduction to Computer Science (Harvard University)](https://certificates.cs50.io/adc2f033-16f9-4d58-bd33-f48431c2a92e.pdf?size=letter)
