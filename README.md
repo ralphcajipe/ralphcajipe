@@ -32,6 +32,7 @@ I'm on a mission to build useful computer technologies for humanity.
 
 ### ⭐ RELEVANT CERTIFICATIONS
 
+* [Advanced Learning Algorithms (DeepLearning.AI & Stanford University)](https://www.coursera.org/account/accomplishments/certificate/9TKKNUDQQ8AE)
 * [Supervised Machine Learning: Regression and Classification (DeepLearning.AI & Stanford University)](https://www.coursera.org/account/accomplishments/certificate/4P5HTS445C9U)
 * [CS50's Introduction to Computer Science (Harvard University)](https://certificates.cs50.io/adc2f033-16f9-4d58-bd33-f48431c2a92e.pdf?size=letter)
 * [CS50 Python (Harvard University)](https://certificates.cs50.io/a2df9b8d-b01a-46f4-bca2-25d9082c8c33.pdf?size=letter)
