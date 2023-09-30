@@ -30,7 +30,7 @@ I'm on a mission to build useful computer technologies for humanity.
 <a href="https://matplotlib.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib" width="40" height="40"/> </a>
 <a href="https://numpy.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
 
-### ⭐ RELEVANT CERTIFICATIONS
+### ⭐ RELEVANT CERTIFICATIONS, CERTIFICATES, AND BADGES
 
 * [Advanced Learning Algorithms (DeepLearning.AI & Stanford University)](https://www.coursera.org/account/accomplishments/certificate/9TKKNUDQQ8AE)
 * [Supervised Machine Learning: Regression and Classification (DeepLearning.AI & Stanford University)](https://www.coursera.org/account/accomplishments/certificate/4P5HTS445C9U)
