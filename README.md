@@ -41,6 +41,7 @@ I'm on a mission to build useful computer technologies for humanity.
 * [Certified IT Specialist - Python](https://www.credly.com/badges/3c723206-75b7-4689-80d0-454bc03ad6ab)
 * [Artificial Intelligence Foundations: Machine Learning (LinkedIn Learning)](https://drive.google.com/file/d/1zRBmMjQUZtSX5DwyFtoOdKy3jgO233nn/view)
 * [Become a Machine Learning Specialist (LinkedIn Learning)](https://drive.google.com/file/d/1O7Xs4v7fXaz0qpkW89MvNPJIcGSouB6o/view)
+* [AWS Cloud Quest: Cloud Practitioner (AWS)](https://www.credly.com/earner/earned/badge/9005c877-bcd1-4d80-8b59-d1be77027be0)
 
  I have obtained other certifications from 2018 to the present, including those for Python, Data Analytics, Java, IoT, DevNet, and PowerPoint.
 
