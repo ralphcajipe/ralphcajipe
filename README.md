@@ -38,7 +38,7 @@ I'm on a mission to build useful computer technologies for humanity.
 * [Supervised Machine Learning: Regression and Classification (DeepLearning.AI & Stanford University)](https://www.coursera.org/account/accomplishments/certificate/4P5HTS445C9U)
 * [CS50's Introduction to Computer Science (Harvard University)](https://certificates.cs50.io/adc2f033-16f9-4d58-bd33-f48431c2a92e.pdf?size=letter)
 * [CS50 Python (Harvard University)](https://certificates.cs50.io/a2df9b8d-b01a-46f4-bca2-25d9082c8c33.pdf?size=letter)
-* [AI For Everyone (deeplearning.ai - Coursera)](https://www.coursera.org/account/accomplishments/certificate/KAVAW28N32DQ)
+* [AI For Everyone (DeepLearning.AI)](https://www.coursera.org/account/accomplishments/certificate/KAVAW28N32DQ)
 * [Artificial Intelligence Foundations: Machine Learning (LinkedIn Learning)](https://drive.google.com/file/d/1zRBmMjQUZtSX5DwyFtoOdKy3jgO233nn/view)
 * [Become a Machine Learning Specialist (LinkedIn Learning)](https://drive.google.com/file/d/1O7Xs4v7fXaz0qpkW89MvNPJIcGSouB6o/view)
 * [AWS Cloud Quest: Cloud Practitioner (AWS)](https://www.credly.com/earner/earned/badge/9005c877-bcd1-4d80-8b59-d1be77027be0)
