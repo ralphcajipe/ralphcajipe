@@ -32,18 +32,18 @@ I'm on a mission to build useful computer technologies for humanity.
 
 ### ⭐ RELEVANT CERTIFICATIONS, CERTIFICATES, AND BADGES
 
+* [Certified IT Specialist - Python](https://www.credly.com/badges/3c723206-75b7-4689-80d0-454bc03ad6ab)
+* [Machine Learning with Python Developer Certification (freeCodeCamp)](https://www.freecodecamp.org/certification/ralphcajipe/machine-learning-with-python-v7)
 * [Advanced Learning Algorithms (DeepLearning.AI & Stanford University)](https://www.coursera.org/account/accomplishments/certificate/9TKKNUDQQ8AE)
 * [Supervised Machine Learning: Regression and Classification (DeepLearning.AI & Stanford University)](https://www.coursera.org/account/accomplishments/certificate/4P5HTS445C9U)
 * [CS50's Introduction to Computer Science (Harvard University)](https://certificates.cs50.io/adc2f033-16f9-4d58-bd33-f48431c2a92e.pdf?size=letter)
 * [CS50 Python (Harvard University)](https://certificates.cs50.io/a2df9b8d-b01a-46f4-bca2-25d9082c8c33.pdf?size=letter)
-* [Machine Learning with Python (freeCodeCamp)](https://www.freecodecamp.org/certification/ralphcajipe/machine-learning-with-python-v7)
 * [AI For Everyone (deeplearning.ai - Coursera)](https://www.coursera.org/account/accomplishments/certificate/KAVAW28N32DQ)
-* [Certified IT Specialist - Python](https://www.credly.com/badges/3c723206-75b7-4689-80d0-454bc03ad6ab)
 * [Artificial Intelligence Foundations: Machine Learning (LinkedIn Learning)](https://drive.google.com/file/d/1zRBmMjQUZtSX5DwyFtoOdKy3jgO233nn/view)
 * [Become a Machine Learning Specialist (LinkedIn Learning)](https://drive.google.com/file/d/1O7Xs4v7fXaz0qpkW89MvNPJIcGSouB6o/view)
 * [AWS Cloud Quest: Cloud Practitioner (AWS)](https://www.credly.com/earner/earned/badge/9005c877-bcd1-4d80-8b59-d1be77027be0)
 
- I have obtained other certifications from 2018 to the present, including those for Python, Data Analytics, Java, IoT, DevNet, and PowerPoint.
+ I have obtained other certifications from 2018 to the present, including those for Python, Data Analytics, Java, IoT, and DevNet.
 
 ### 📚My education
 
