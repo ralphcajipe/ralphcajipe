@@ -8,8 +8,8 @@ I'm on a mission to build useful computer technologies for humanity.
 
 ### 🏗 Best Projects
 - [Video Lens](https://github.com/starkproj/) - A web app for video content analysis using Computer Vision and Natural Language Processing.
-- [E.C.H.O. (Enhanced Chats and Helpful Outputs)](https://github.com/ralphcajipe/echo-ai) - An AI chatbot powered by GPT-3.5, designed to assist with helpful, creative, clever, and very friendly responses.
 - [Image Colorizer: Back to Life](https://github.com/ralphcajipe/image-colorizer#readme) - A desktop app that uses deep learning to colorize black and white images.
+- [E.C.H.O. (Enhanced Chats and Helpful Outputs)](https://github.com/ralphcajipe/echo-ai) - An AI chatbot powered by GPT-3.5, designed to assist with helpful, creative, clever, and very friendly responses.
 - [International Space Station Tracker](https://github.com/ralphcajipe/International-Space-Station-Tracker) - A tracker for the International Space Station using Open Notify API.
 
 ### 🧠 AI
