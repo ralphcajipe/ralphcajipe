@@ -4,8 +4,6 @@ I'm a **Computer Scientist** focusing on **Machine Learning/AI, Python, and Web*
 
 I care deeply about developing software that is human-centered and feels magical — creating solutions that were previously unrealistic or unattainable.
 
-I'm on a mission to build useful computer technologies for humanity.
-
 ### 🏗 Best Projects
 - [Video Lens](https://github.com/starkproj/) - A web app for video content analysis using Computer Vision and Natural Language Processing.
 - [Image Colorizer: Back to Life](https://github.com/ralphcajipe/image-colorizer#readme) - A desktop app that uses deep learning to colorize black and white images.
