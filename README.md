@@ -1,5 +1,3 @@
-### Hi!
-
 I'm a **Computer Scientist** focusing on **Machine Learning/AI, Python, and Web**.
 
 I care deeply about developing software that is human-centered and feels magical — creating solutions that were previously unrealistic or unattainable.
