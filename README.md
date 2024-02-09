@@ -45,14 +45,14 @@ I care deeply about developing software that is human-centered and feels magical
 ### ⭐ RELEVANT CERTIFICATIONS, CERTIFICATES, AND BADGES
  
 * [Certified IT Specialist in Python](https://www.credly.com/badges/3c723206-75b7-4689-80d0-454bc03ad6ab)
-* [Machine Learning Specialization (Stanford University and DeepLearning.AI)](https://www.coursera.org/account/accomplishments/specialization/certificate/VF2GQZZUV7A5)
-* [Machine Learning with Python Developer Certification (freeCodeCamp)](https://www.freecodecamp.org/certification/ralphcajipe/machine-learning-with-python-v7)
-* [CS50's Introduction to Computer Science (Harvard University)](https://certificates.cs50.io/adc2f033-16f9-4d58-bd33-f48431c2a92e.pdf?size=letter)
-* [CS50 Python (Harvard University)](https://certificates.cs50.io/a2df9b8d-b01a-46f4-bca2-25d9082c8c33.pdf?size=letter)
-* [AI For Everyone (DeepLearning.AI)](https://www.coursera.org/account/accomplishments/certificate/KAVAW28N32DQ)
-* [Artificial Intelligence Foundations: Machine Learning (LinkedIn Learning)](https://drive.google.com/file/d/1zRBmMjQUZtSX5DwyFtoOdKy3jgO233nn/view)
-* [Become a Machine Learning Specialist (LinkedIn Learning)](https://drive.google.com/file/d/1O7Xs4v7fXaz0qpkW89MvNPJIcGSouB6o/view)
-* [AWS Cloud Quest: Cloud Practitioner (AWS)](https://www.credly.com/earner/earned/badge/9005c877-bcd1-4d80-8b59-d1be77027be0)
+* [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/VF2GQZZUV7A5) - Stanford University and DeepLearning.AI
+* [Machine Learning with Python Developer Certification](https://www.freecodecamp.org/certification/ralphcajipe/machine-learning-with-python-v7) - freeCodeCamp
+* [CS50's Introduction to Computer Science](https://certificates.cs50.io/adc2f033-16f9-4d58-bd33-f48431c2a92e.pdf?size=letter) - Harvard University
+* [CS50 Python](https://certificates.cs50.io/a2df9b8d-b01a-46f4-bca2-25d9082c8c33.pdf?size=letter) - Harvard University
+* [AI For Everyone](https://www.coursera.org/account/accomplishments/certificate/KAVAW28N32DQ) - DeepLearning.AI
+* [Artificial Intelligence Foundations: Machine Learning](https://drive.google.com/file/d/1zRBmMjQUZtSX5DwyFtoOdKy3jgO233nn/view) - LinkedIn Learning
+* [Become a Machine Learning Specialist](https://drive.google.com/file/d/1O7Xs4v7fXaz0qpkW89MvNPJIcGSouB6o/view) - LinkedIn Learning
+* [AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/earner/earned/badge/9005c877-bcd1-4d80-8b59-d1be77027be0)
 
  I have obtained other certifications from 2018 to the present, including those for Python, Data Analytics, Java, IoT, and DevNet.
 
