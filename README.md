@@ -1,4 +1,4 @@
-I'm a **Computer Scientist** where I research and build with **Machine Learning/AI, Python, and Web**.
+I research and build with **Machine Learning/AI, Python, and Web**.
 
 I care deeply about developing software that is human-centered and feels magical — creating solutions that were previously unrealistic or unattainable.
 
@@ -43,11 +43,10 @@ I care deeply about developing software that is human-centered and feels magical
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/> </a>
 
 ### ⭐ RELEVANT CERTIFICATIONS, CERTIFICATES, AND BADGES
-
-* [Certified IT Specialist - Python](https://www.credly.com/badges/3c723206-75b7-4689-80d0-454bc03ad6ab)
+ 
+* [Certified IT Specialist in Python](https://www.credly.com/badges/3c723206-75b7-4689-80d0-454bc03ad6ab)
+* [Machine Learning Specialization (Stanford University and DeepLearning.AI)](https://www.coursera.org/account/accomplishments/specialization/certificate/VF2GQZZUV7A5)
 * [Machine Learning with Python Developer Certification (freeCodeCamp)](https://www.freecodecamp.org/certification/ralphcajipe/machine-learning-with-python-v7)
-* [Advanced Learning Algorithms (DeepLearning.AI & Stanford University)](https://www.coursera.org/account/accomplishments/certificate/9TKKNUDQQ8AE)
-* [Supervised Machine Learning: Regression and Classification (DeepLearning.AI & Stanford University)](https://www.coursera.org/account/accomplishments/certificate/4P5HTS445C9U)
 * [CS50's Introduction to Computer Science (Harvard University)](https://certificates.cs50.io/adc2f033-16f9-4d58-bd33-f48431c2a92e.pdf?size=letter)
 * [CS50 Python (Harvard University)](https://certificates.cs50.io/a2df9b8d-b01a-46f4-bca2-25d9082c8c33.pdf?size=letter)
 * [AI For Everyone (DeepLearning.AI)](https://www.coursera.org/account/accomplishments/certificate/KAVAW28N32DQ)
