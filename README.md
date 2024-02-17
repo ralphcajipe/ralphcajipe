@@ -1,6 +1,4 @@
-I research and build with **Machine Learning/AI, Python, and Web**.
-
-I care deeply about developing software that is human-centered and feels magical — creating solutions that were previously unrealistic or unattainable.
+I care deeply about researching and building with **Machine Learning/AI**, **Python**, and **Web Development**.
 
 ### 🏗 Best Projects
 - [Video Lens](https://github.com/starkproj/) - A web app for video content analysis using Computer Vision and Natural Language Processing.
