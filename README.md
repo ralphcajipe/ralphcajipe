@@ -1,6 +1,7 @@
-I care deeply about researching and building with **Machine Learning/AI**, **Python**, and **Web Development**.
+ I care deeply about researching and building with **Machine Learning/AI**, **Python**, and deploying models into **production**.
 
 ### 🏗 Best Projects
+- [ROAMER (Robot for Optimized and Autonomous Mission-Enhancement Response)](https://www.dost.gov.ph/knowledge-resources/news/78-2023-news/3405-dost-asti-removing-doubts-about-ai.html#:~:text=Robot%20for%20Optimized%20and%20Autonomous%20Mission%2DEnhancement%20Responses%20(ROAMER)) - An initiative by DOST-ASTI in the Philippines that develops autonomous mobile robots to monitor and manage agricultural environments, particularly for early detection of diseases in banana plantations using AI and Robotics.
 - [Video Lens](https://github.com/starkproj/) - A web app for video content analysis using Computer Vision and Natural Language Processing.
 - [Image Colorizer: Back to Life](https://github.com/ralphcajipe/image-colorizer#readme) - A desktop app that uses deep learning to colorize black and white images.
 - [E.C.H.O. (Enhanced Chats and Helpful Outputs)](https://github.com/ralphcajipe/echo-ai) - An AI chatbot powered by GPT-3.5, designed to assist with helpful, creative, clever, and very friendly responses.
@@ -41,9 +42,10 @@ I care deeply about researching and building with **Machine Learning/AI**, **Pyt
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/> </a>
 
 ### ⭐ RELEVANT CERTIFICATIONS, CERTIFICATES, AND BADGES
- 
-* [Certified IT Specialist in Python](https://www.credly.com/badges/3c723206-75b7-4689-80d0-454bc03ad6ab)
+
 * [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/VF2GQZZUV7A5) - Stanford University and DeepLearning.AI
+* [Machine Learning Engineering for Production (MLOps) Specializationn](https://www.coursera.org/account/accomplishments/specialization/certificate/V5UJU7RBKETB) - DeepLearning.AI
+* [Certified IT Specialist in Python](https://www.credly.com/badges/3c723206-75b7-4689-80d0-454bc03ad6ab)
 * [Machine Learning with Python Developer Certification](https://www.freecodecamp.org/certification/ralphcajipe/machine-learning-with-python-v7) - freeCodeCamp
 * [CS50's Introduction to Computer Science](https://certificates.cs50.io/adc2f033-16f9-4d58-bd33-f48431c2a92e.pdf?size=letter) - Harvard University
 * [CS50 Python](https://certificates.cs50.io/a2df9b8d-b01a-46f4-bca2-25d9082c8c33.pdf?size=letter) - Harvard University
