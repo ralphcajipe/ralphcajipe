@@ -20,6 +20,7 @@
 <a href="https://numpy.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
 <a href="https://opencv.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/> </a>
 <a href="https://docs.ultralytics.com" target="_blank"> <img src="images/Ultralytics_YOLOv8_Logotype_1_Original_Crop.png" alt="yolo" width="120" height="35"/> </a>
+<a href="https://roboflow.com" target="_blank"> <img src="images/roboflow.png" alt="roboflow" width="120" height="35"/> </a>
 <a href="https://openai.com/api" target="_blank"> <img src="images/openai-white-lockup.svg" alt="openai" width="120" height="35"/> </a>
 
 ### 🚀 Machine Learning Operations (MLOps)
