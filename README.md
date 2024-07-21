@@ -17,7 +17,7 @@
 <a href="https://pandas.pydata.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://matplotlib.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib" width="40" height="40"/> </a>
 <a href="https://numpy.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
-<a href="https://docs.ultralytics.com/" target="_blank"> <img src="images/Ultralytics_YOLOv8_Logotype_1_Original_Crop.png" alt="yolo" width="100" height="40"/> </a>
+<a href="https://docs.ultralytics.com/" target="_blank"> <img src="images/Ultralytics_YOLOv8_Logotype_1_Original_Crop.png" alt="yolo" width="120" height="35"/> </a>
 
 ### 🌐 Web Development
 <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
