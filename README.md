@@ -66,7 +66,7 @@ My foundation for writing clean software roots in books and courses from leaders
 
 **- BACHELOR OF SCIENCE (B.S.), COMPUTER SCIENCE**
 
-_Software Engineering Specialization. FEU Institute of Technology, Philippines. 2019 - Present_
+_Software Engineering Specialization. FEU Institute of Technology, Philippines. 2019 - 2024_
 
 **- BACHELOR OF SCIENCE (B.S.), COMPUTER SCIENCE**
 
