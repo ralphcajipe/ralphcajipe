@@ -1,4 +1,4 @@
-I develop **AI**, **Machine Learning**, and **Web** software and **deploy** them to production
+I develop **AI**, **Machine Learning**, and **Web** software, deploying them to production.
 
 ### 🏗 Best Projects
 - [ROAMER (Robot for Optimized and Autonomous Mission-Enhancement Response)](https://www.dost.gov.ph/knowledge-resources/news/78-2023-news/3405-dost-asti-removing-doubts-about-ai.html#:~:text=Robot%20for%20Optimized%20and%20Autonomous%20Mission%2DEnhancement%20Responses%20(ROAMER)) - An initiative by Department of Science and Technology in the Philippines that develops autonomous mobile robots to monitor and manage agricultural environments, particularly for early detection of diseases in banana plantations using AI and Robotics.
