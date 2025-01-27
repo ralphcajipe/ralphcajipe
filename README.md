@@ -58,8 +58,6 @@ I develop **AI**, **Machine Learning**, and **Web** software, deploying them to 
 * [Become a Machine Learning Specialist](https://drive.google.com/file/d/1O7Xs4v7fXaz0qpkW89MvNPJIcGSouB6o/view) - LinkedIn Learning
 * [AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/earner/earned/badge/9005c877-bcd1-4d80-8b59-d1be77027be0)
 
- I have obtained other certifications from 2018 to the present, including those for Python, Data Analytics, Java, IoT, and DevNet.
-
 ### 📚My education
 
 My foundation for writing software is rooted in books and courses from leaders of specific topics. While formal education is important, I've found that it's often not enough to achieve my goals. That's why I spend a lot of time working on practical, real-world projects that help me put my abilities to use.
