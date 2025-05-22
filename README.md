@@ -60,7 +60,7 @@ I develop **AI**, **Machine Learning**, and **Web** software, deploying them to 
 
 ### 📚My education
 
-My foundation for writing software is rooted in books and courses from leaders of specific topics. While formal education is important, I've found that it's often not enough to achieve my goals. That's why I spend a lot of time working on practical, real-world projects that help me put my abilities to use.
+My foundation for writing software is rooted in books and courses from leaders of specific topics. While formal education is important, I've found that it's often not enough to achieve my goals. That's why I spend a lot of time working on practical, real-world projects that are useful.
 
 **- BACHELOR OF SCIENCE (B.S.), COMPUTER SCIENCE**
 
