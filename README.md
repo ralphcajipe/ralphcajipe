@@ -69,5 +69,3 @@ _Software Engineering Specialization. FEU Institute of Technology, Philippines. 
 **- BACHELOR OF SCIENCE (B.S.), COMPUTER SCIENCE**
 
 _Wesleyan University-Philippines, Philippines. 2018 - 2019_
-
-**Coursework:** Software Applications, Computer Programming, Web Development, Living in the IT Era
