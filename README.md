@@ -24,10 +24,11 @@ I develop **AI**, **Machine Learning**, and **Web** software, deploying them to 
 <a href="https://roboflow.com" target="_blank"> <img src="images/roboflow.png" alt="roboflow" width="100" height="30"/> </a>
 <a href="https://openai.com/api" target="_blank"> <img src="images/openai-white-lockup.svg" alt="openai" width="120" height="35"/> </a>
 
-### 🚀 Machine Learning Operations (MLOps)
+### 🚀 Machine Learning Operations (MLOps) / DevOps
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://cloud.google.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://github.com" target="_blank"> <img src="https://github.com/ralphcajipe/ralphcajipe/blob/main/images/github.png" alt="github" width="40" height="40"/> </a>
+<a href="https://about.gitlab.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/> </a>
 <a href="https://git-scm.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.vim.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/> </a>
 <a href="https://www.nano-editor.org" target="_blank"> <img src="https://github.com/ralphcajipe/ralphcajipe/blob/main/images/Nano.svg" alt="nano" width="40" height="40"/> </a>
@@ -45,6 +46,8 @@ I develop **AI**, **Machine Learning**, and **Web** software, deploying them to 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-white.svg" alt="bootstrap" width="45" height="40"/> </a>
+<a href="https://www.java.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://kotlinlang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> </a>
 
 ### ⭐ RELEVANT CERTIFICATIONS, CERTIFICATES, AND BADGES
 
