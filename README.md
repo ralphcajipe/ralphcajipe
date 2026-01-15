@@ -48,7 +48,7 @@ I develop **AI**, **Machine Learning**, and **Web** software, deploying them to 
 <a href="https://www.java.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://kotlinlang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> </a>
 
-### ⭐ RELEVANT CERTIFICATIONS, CERTIFICATES, AND BADGES
+### ⭐ RELEVANT CERTIFICATIONS
 
 * [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/VF2GQZZUV7A5) - Stanford University and DeepLearning.AI
 * [Machine Learning Engineering for Production (MLOps) Specializationn](https://www.coursera.org/account/accomplishments/specialization/certificate/V5UJU7RBKETB) - DeepLearning.AI
